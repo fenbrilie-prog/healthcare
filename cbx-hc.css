@@ -224,7 +224,7 @@
   .cbx-hc__hero {
     position: relative;
     background: var(--cbx-hero-grad);
-    padding-top: 180px;
+    padding-top: 180px !important;
     padding-bottom: var(--s8);
     overflow: hidden;
   }
