@@ -1145,7 +1145,7 @@
 
     .cbx-hc__lede { font-size: 18px; }
 
-    .cbx-hc__hero { padding-top: var(--s8); padding-bottom: var(--s10); }
+    .cbx-hc__hero { padding-top: 130px !important; padding-bottom: var(--s10); }
     .cbx-hc__hero-grid {
       flex-direction: row;
       align-items: center;
